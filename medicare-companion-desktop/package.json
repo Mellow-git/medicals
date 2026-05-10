@@ -1,0 +1,14 @@
+{
+  "name": "medicare-companion-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "electron/main.mjs",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^34.0.0"
+  }
+}
